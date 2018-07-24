@@ -42,7 +42,8 @@ body {
 p {
     font-family: 'Cousine', monospace;
     text-align: center;
-    color: azure;
+    color: black;
+    font-size: 50px
 }
 
 img {
