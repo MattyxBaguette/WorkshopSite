@@ -32,18 +32,24 @@
 
 .img1 {
     text-align: center;
+      display: flex;
 }
 
 .img1 img {
-    margin-top: 10%;
+    margin-top: 20%;
     height: 450px;
     width: 450px;
 }
 
-.img1 div {
-    display: inline-block;
-}
 
+.img1 .ok {
+  width: 50%;
+
+}
+.img1 .okok {
+  width: 50%;
+
+}
 .news img {
     margin-top: 15%;
     height: 405px;
@@ -51,7 +57,7 @@
 }
 
 body {
-    background-image: url("../images/bg.jpg");
+    background-image: url("../images/test6.jpg");
     background-repeat: no-repeat;
 }
 
