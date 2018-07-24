@@ -1,0 +1,51 @@
+h1 {
+    font-family: 'Libre Barcode 128 Text', cursive;
+    font-size: 80px;
+    color: azure;
+    text-align: center;
+}
+
+.header {
+    width: 100%;
+    text-align: center;
+    height: 70px;
+    z-index: 999;
+    line-height: 70px;
+    top: 0;
+}
+
+.header .header-menu {
+    font-family: 'Cousine', monospace;
+    color: azure;
+}
+
+.header .header-menu a {
+    color: azure;
+    text-decoration: none;
+}
+.img1 {
+    margin-top: 15%;
+}
+/*.banner {
+    margin-top: -258px;
+}
+
+.banner .banner-image {
+    position: relative;
+}*/
+
+body {
+    background-image: url("../../../../WebstormProjects/WorkshopHetic/images/bg.jpg");
+}
+
+p {
+    font-family: 'Cousine', monospace;
+    text-align: center;
+    color: azure;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
