@@ -9,13 +9,14 @@
 
 .header a h1 {
     font-family: 'Libre Barcode 128 Text', cursive;
-    font-size: 80px;
+    font-size: 105px;
     color: #140104;
     text-align: center;
     text-decoration: none;
 }
 
 .header .header-menu {
+    font-size: 25px;
     font-family: 'Cousine', monospace;
     color: azure;
 }
@@ -26,7 +27,7 @@
 }
 
 .header .header-menu a:hover {
-    color: lightseagreen;
+    color: #C70039;
 }
 
 .img1 {
