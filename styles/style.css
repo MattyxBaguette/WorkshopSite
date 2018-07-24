@@ -31,6 +31,7 @@
 }
 
 .img1 {
+    margin-top: 65px;
     text-align: center;
       display: flex;
 }
@@ -39,6 +40,10 @@
     margin-top: 20%;
     height: 450px;
     width: 450px;
+}
+
+.img1 img:hover {
+    transform: scale(1.3);
 }
 
 
