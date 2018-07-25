@@ -9,6 +9,8 @@ launch.addEventListener(
         setInterval(decollage, 1000);
     }, false);
 
+    countdown.innerHTML = '<span>' + number + '</span>';
+
 function decollage() {
     if (number > 0) {
         countdown.innerHTML = (number -= 1)
