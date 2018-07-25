@@ -67,6 +67,14 @@
     width: 29%;
 }
 
+#container {
+    position: relative;
+}
+
+#animate {
+    position: relative;
+}
+
 body {
     background-image: url("../images/bg.png");
     /*background-repeat: no-repeat;*/
