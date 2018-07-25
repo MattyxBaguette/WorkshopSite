@@ -95,8 +95,9 @@ img {
     margin-left: auto;
     margin-right: auto;
 }
-.image10 {
-  overflow: hidden;     /* masque les dépassements */
+
+span {
+  margin-top: -14%;
 }
 
 .image10 span {
@@ -110,4 +111,8 @@ img {
 
 .image10:hover span {
   left: 5em;            /* position égale à la largeur de l'image */
+}
+
+.image10 span {
+  font-size: 80px
 }
