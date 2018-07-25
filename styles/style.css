@@ -65,6 +65,10 @@
   margin-top: 5%
 }
 
+.lesinge img:hover {
+    transform: scale(3,3);
+}
+
 body {
     background-image: url("../images/test6.jpg");
     background-repeat: no-repeat;
