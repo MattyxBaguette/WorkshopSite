@@ -91,3 +91,10 @@ img {
 .img1 img {
     border: solid 4px white;
 }
+
+@media screen and (max-width: 1280px){
+    .lesinge img {
+        margin-right: -14%;
+        margin-top: 5%
+    }
+}
