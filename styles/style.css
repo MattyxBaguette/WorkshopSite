@@ -9,7 +9,7 @@
 
 .header a h1 {
     font-family: 'Libre Barcode 128 Text', cursive;
-    font-size: 105px;
+    font-size: 130px;
     color: #140104;
     text-align: center;
     text-decoration: none;
@@ -97,4 +97,3 @@ img {
         margin-right: -14%;
         margin-top: 5%
     }
-}
