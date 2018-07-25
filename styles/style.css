@@ -55,18 +55,10 @@
 }
 
 .platine img {
-    margin-top: 20%;
+    margin-top: 15%;
     padding-left: 3.75%;
     height: 29%;
     width: 29%;
-}
-.lesinge img {
-  margin-right: -9%;
-  margin-top: 5%
-}
-
-.lesinge img:hover {
-    transform: scale(3,3);
 }
 
 body {
@@ -86,11 +78,4 @@ img {
     display: block;
     margin-left: auto;
     margin-right: auto;
-}
-
-@media screen and (max-width: 1280px) {
-    .lesinge img {
-        margin-right: -14%;
-        margin-top: 5%
-    }
 }
