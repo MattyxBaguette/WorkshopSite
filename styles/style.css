@@ -54,6 +54,12 @@
   width: 50%;
 }
 
+.ovni img {
+    margin-top: 10%;
+    height: 300px;
+    width: auto;
+}
+
 .platine img {
     margin-top: 15%;
     padding-left: 3.75%;
@@ -63,7 +69,7 @@
 
 body {
     background-image: url("../images/test6.jpg");
-    background-repeat: no-repeat;
+    /*background-repeat: no-repeat;*/
 }
 
 p {
