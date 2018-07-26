@@ -1,12 +1,12 @@
 let launch = document.querySelector(".launch")
 let countdown = document.querySelector(".countdown")
 let ovni = document.querySelector("#ovni")
-let number = 10
+let number = 5
 
 launch.addEventListener(
     'click',
     function () {
-        setInterval(decollage, 1000);
+        setInterval(decollage, 1010);
     }, false);
 
 /*function animateClock(span) {
@@ -24,17 +24,17 @@ launch.addEventListener(
 }*/
 
 function decollage() {
-    countdown.innerHTML = '<span>' + number + '</span>';
-
-/*    var spans = document.querySelector(".countdown span");
-    animateClock(spans);*/
+    countdown.setAttribute("style", "");
+    /*    var spans = document.querySelector(".countdown span");
+        animateClock(spans);*/
     if (number > 0) {
         countdown.innerHTML = (number -= 1)
+        countdown.style.transform = "rotateX(360deg)"
+        countdown.style.transition = "all 1s"
 //        animateClock(spans)
     } else {
       countdown.innerHTML = 0
         ovni.style.transform = "translateY(-15000px)"
         ovni.style.transition = "all 15s"
-//        countdown.style.textAlign = "center"
     }
 }
