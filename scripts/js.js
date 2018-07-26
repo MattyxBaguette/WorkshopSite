@@ -29,8 +29,14 @@ function decollage() {
         animateClock(spans);*/
     if (number > 0) {
         countdown.innerHTML = (number -= 1)
-        countdown.style.transform = "rotateX(360deg)"
-        countdown.style.transition = "all 1s"
+        if (number%2 === 0) {
+            countdown.style.transform = "rotateX(360deg)"
+            countdown.style.transition = "all 1s"
+        }
+        else {
+            countdown.style.transform = "rotateX(-360deg)"
+            countdown.style.transition = "all 1s"
+        }
 //        animateClock(spans)
     } else {
       countdown.innerHTML = 0
