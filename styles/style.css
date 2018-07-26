@@ -57,6 +57,30 @@
   width: 50%;
 }
 
+.img2 {
+    margin-top: 65px;
+    text-align: center;
+    display: flex;
+}
+
+.img2 img {
+    margin-top: 20%;
+    height: 450px;
+    width: 450px;
+    border: solid 4px white;
+}
+
+.img2 img:hover {
+    transform: scale(1.3);
+}
+
+.img2 .okokok {
+  width: 50%;
+}
+.img2 .okokokok {
+  width: 50%;
+}
+
 .ovni img {
     margin-top: 100%;
     height: 300px;
