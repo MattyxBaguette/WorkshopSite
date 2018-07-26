@@ -183,6 +183,9 @@ img {
 /*    background-color: #5D6D7E;*/
     background-color: #303c4a;
 }
+.button {
+    padding-top: 4%;
+}
 
 button {
     display: flex;
