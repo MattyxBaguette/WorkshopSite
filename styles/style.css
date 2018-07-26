@@ -65,7 +65,7 @@
 
 .platine img {
     margin-top: 15%;
-    padding-left: 3.75%;
+    padding-left: 5%;
     height: 29%;
     width: 29%;
 }
@@ -113,13 +113,20 @@ img {
     left: 5em; /* position égale à la largeur de l'image */
 }
 
-.del-countdown .countdown {
-    margin-top: 3%;
-    text-align: center;
-    font-size: 40px;
-    font-family: 'Space Mono', monospace;
+.del-countdown {
+    display: flex;
+    margin-top: 8%;
+    flex-direction: column;
 }
 
-.del-countdown .launch {
-    text-align: center;
+.del-countdown .countdown {
+    margin: auto;
+    font-size: 70px;
+    font-family: 'Cabin Sketch', cursive;
+    background-color: grey;
+}
+
+.del-countdown button {
+    margin: auto;
+/*    text-align: center;*/
 }
