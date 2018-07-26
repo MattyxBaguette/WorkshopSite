@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="39b146da-7761-4149-ad98-3bc7c9a81af7" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/js.js" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/js.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/styles/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/style.css" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -21,8 +20,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="9" column="90" selection-start-line="9" selection-start-column="90" selection-end-line="9" selection-end-column="90" />
+            <state relative-caret-position="17">
+              <caret line="10" column="91" selection-start-line="10" selection-start-column="91" selection-end-line="10" selection-end-column="91" />
             </state>
           </provider>
         </entry>
@@ -30,8 +29,8 @@
       <file leaf-file-name="rock.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/rock.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="544">
-              <caret line="32" column="23" selection-start-line="32" selection-start-column="23" selection-end-line="32" selection-end-column="23" />
+            <state relative-caret-position="92">
+              <caret line="17" column="32" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -39,8 +38,8 @@
       <file leaf-file-name="electro.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/electro.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="26" column="23" selection-start-line="26" selection-start-column="23" selection-end-line="26" selection-end-column="23" />
+            <state relative-caret-position="92">
+              <caret line="17" column="32" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -48,8 +47,8 @@
       <file leaf-file-name="rap.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/rap.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="347">
-              <caret line="35" column="32" lean-forward="true" selection-start-line="35" selection-start-column="32" selection-end-line="35" selection-end-column="32" />
+            <state relative-caret-position="58">
+              <caret line="18" column="40" selection-start-line="18" selection-start-column="40" selection-end-line="18" selection-end-column="40" />
             </state>
           </provider>
         </entry>
@@ -57,8 +56,8 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/styles/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="466">
-              <caret line="119" column="23" selection-start-line="119" selection-start-column="23" selection-end-line="119" selection-end-column="23" />
+            <state relative-caret-position="313">
+              <caret line="117" column="17" selection-start-line="117" selection-start-column="17" selection-end-line="117" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -89,12 +88,12 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/styles/electro.html" />
-        <option value="$PROJECT_DIR$/rock.html" />
         <option value="$PROJECT_DIR$/styles/js.js" />
         <option value="$PROJECT_DIR$/js.js" />
+        <option value="$PROJECT_DIR$/scripts/js.js" />
+        <option value="$PROJECT_DIR$/rock.html" />
         <option value="$PROJECT_DIR$/electro.html" />
         <option value="$PROJECT_DIR$/rap.html" />
-        <option value="$PROJECT_DIR$/scripts/js.js" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/styles/style.css" />
       </list>
@@ -185,7 +184,7 @@
       <workItem from="1532439558140" duration="5386000" />
       <workItem from="1532506720453" duration="11584000" />
       <workItem from="1532522437345" duration="7394000" />
-      <workItem from="1532593280788" duration="3900000" />
+      <workItem from="1532593280788" duration="4966000" />
     </task>
     <task id="LOCAL-00001" summary="nom du site">
       <created>1532425916954</created>
@@ -212,13 +211,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38689000" />
+    <option name="totallyTimeSpent" value="39755000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.24980484" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24980484" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
@@ -236,25 +235,6 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
     </layout>
-    <layout-to-restore>
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24980484" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -454,22 +434,29 @@
     <entry file="file://$PROJECT_DIR$/styles/style.css" />
     <entry file="file://$PROJECT_DIR$/rock.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="32" column="23" selection-start-line="32" selection-start-column="23" selection-end-line="32" selection-end-column="23" />
+        <state relative-caret-position="92">
+          <caret line="17" column="32" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/electro.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" column="23" selection-start-line="26" selection-start-column="23" selection-end-line="26" selection-end-column="23" />
+        <state relative-caret-position="92">
+          <caret line="17" column="32" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/rap.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="347">
-          <caret line="35" column="32" lean-forward="true" selection-start-line="35" selection-start-column="32" selection-end-line="35" selection-end-column="32" />
+        <state relative-caret-position="58">
+          <caret line="18" column="40" selection-start-line="18" selection-start-column="40" selection-end-line="18" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="10" column="91" selection-start-line="10" selection-start-column="91" selection-end-line="10" selection-end-column="91" />
         </state>
       </provider>
     </entry>
@@ -480,17 +467,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="9" column="90" selection-start-line="9" selection-start-column="90" selection-end-line="9" selection-end-column="90" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/styles/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="466">
-          <caret line="119" column="23" selection-start-line="119" selection-start-column="23" selection-end-line="119" selection-end-column="23" />
+        <state relative-caret-position="313">
+          <caret line="117" column="17" selection-start-line="117" selection-start-column="17" selection-end-line="117" selection-end-column="17" />
         </state>
       </provider>
     </entry>
