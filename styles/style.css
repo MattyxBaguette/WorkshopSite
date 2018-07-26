@@ -74,10 +74,34 @@
     transform: scale(1.3);
 }
 
-.img2 .okokok {
+.img2 .ok2 {
   width: 50%;
 }
-.img2 .okokokok {
+.img2 .okok2 {
+  width: 50%;
+}
+
+.img3 {
+    margin-top: 65px;
+    text-align: center;
+    display: flex;
+}
+
+.img3 img {
+    margin-top: 20%;
+    height: 450px;
+    width: 450px;
+    border: solid 4px white;
+}
+
+.img3 img:hover {
+    transform: scale(1.3);
+}
+
+.img3 .ok3 {
+  width: 50%;
+}
+.img3 .okok3 {
   width: 50%;
 }
 
@@ -147,19 +171,11 @@ img {
     margin: auto;
     font-size: 70px;
     color: white;
-    font-family: 'Aldrich', sans-serif;
-    border:3px solid #5D6D7E;
-    width: 70px;
-    height: 80px;
+    font-family: 'Cabin Sketch', cursive;
+    border:3px solid grey;
     border-radius: 15px;
     padding: 10px;
-    text-align: center;
-    background-color: #5D6D7E;
-}
-
-.del-countdown .countdown:hover {
-    transform: scale(1.3);
-    transition: all 0.5s;
+    background-color: grey;
 }
 
 .del-countdown button {
