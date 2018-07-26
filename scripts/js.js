@@ -9,24 +9,7 @@ launch.addEventListener(
         setInterval(decollage, 1010);
     }, false);
 
-/*function animateClock(span) {
-    let i = true;
-    setInterval(function () {
-       if (i === true) {
-           span.classList.add("turn")
-           i = false;
-       }
-       if (i === false) {
-           span.classList.add("")
-           i = true;
-       }
-    }, 700);
-}*/
-
 function decollage() {
-    countdown.setAttribute("style", "");
-    /*    var spans = document.querySelector(".countdown span");
-        animateClock(spans);*/
     if (number > 0) {
         countdown.innerHTML = (number -= 1)
         if (number%2 === 0) {
@@ -34,10 +17,9 @@ function decollage() {
             countdown.style.transition = "all 1s"
         }
         else {
-            countdown.style.transform = "rotateX(-360deg)"
+            countdown.style.transform = "rotateX(0deg)"
             countdown.style.transition = "all 1s"
         }
-//        animateClock(spans)
     } else {
       countdown.innerHTML = 0
         ovni.style.transform = "translateY(-15000px)"
