@@ -19,8 +19,10 @@
     font-size: 25px;
     font-family: 'Cousine', monospace;
     color: azure;
-    display: inline-block;
-    margin: 0px;
+    display: flex;
+    justify-content: space-between;
+    width: 30%;
+    margin: auto;
     padding: 0px;
 }
 
