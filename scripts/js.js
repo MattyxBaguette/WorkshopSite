@@ -6,7 +6,9 @@ let number = 5
 launch.addEventListener(
     'click',
     function () {
-        setInterval(decollage, 1010);
+      let ovni1 = document.querySelector(".ovni1")
+      ovni1.play();
+          setInterval(decollage, 1010);
     }, false);
 
 function decollage() {
@@ -25,4 +27,4 @@ function decollage() {
         ovni.style.transform = "translateY(-15000px)"
         ovni.style.transition = "all 15s"
     }
-}
+  }
