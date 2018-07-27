@@ -23,12 +23,18 @@
     justify-content: space-between;
     width: 30%;
     margin: auto;
-    padding: 0px;
 }
 
 .header .header-menu a {
+    line-height: 60px;
     color: azure;
     text-decoration: none;
+/*    letter-spacing: 4px;*/
+    border: 2px solid azure;
+    padding: 4px;
+    display: inline-block;
+    width: 100px;
+    height: 50px;
 }
 
 .header .header-menu a:hover {
@@ -184,7 +190,7 @@ img {
     background-color: #303c4a;
 }
 .button {
-    padding-top: 4%;
+    padding-top: 2%;
 }
 
 button {
