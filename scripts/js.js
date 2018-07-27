@@ -6,9 +6,10 @@ let number = 5
 launch.addEventListener(
     'click',
     function () {
-      let ovni1 = document.querySelector(".ovni1")
+      let ovni1 = document.querySelector(".ovni1");
       ovni1.play();
-          setInterval(decollage, 1010);
+      ovni1.currentTime=6;
+        setInterval(decollage, 1010);
     }, false);
 
 function decollage() {
@@ -25,6 +26,6 @@ function decollage() {
     } else {
       countdown.innerHTML = 0
         ovni.style.transform = "translateY(-15000px)"
-        ovni.style.transition = "all 15s"
+        ovni.style.transition = "all 18s"
     }
   }
